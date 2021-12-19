@@ -1,0 +1,26 @@
+{
+  "name": "@yababay/footer-main-header",
+  "version": "1.0.0",
+  "description": "Tiny script for holding footer not lower than bottom of visible window.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yababay/header-main-footer.git"
+  },
+  "keywords": [
+    "semantic",
+    "tags",
+    "header",
+    "footer",
+    "main"
+  ],
+  "author": "Михаил Беляков (Michael Belyakov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yababay/header-main-footer/issues"
+  },
+  "homepage": "https://github.com/yababay/header-main-footer#readme"
+}
